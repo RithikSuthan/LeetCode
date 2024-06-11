@@ -23,7 +23,6 @@ class Solution:
             if (root.val==subRoot.val):
                 if sameTree(root,subRoot) and not result:
                     result=True
-                print(result)
             tree(root.right,subRoot)
         tree(root,subRoot)
         return result 
