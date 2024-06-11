@@ -13,7 +13,6 @@ class Solution:
                 return 0
             lheight=height(root.left)
             rheight=height(root.right)
-            print(lheight," ",rheight)
             if (abs(lheight-rheight)>1):
                 balance=False
             return max(lheight,rheight)+1
