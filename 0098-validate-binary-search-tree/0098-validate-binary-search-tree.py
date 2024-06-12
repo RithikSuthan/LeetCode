@@ -5,17 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    valid=True
-    prev=float("-inf")
-    def inorder(self,root):
-        if root is None:
-            return
-        self.inorder(root.left)
-        if self.prev<root.val:
-            self.prev=root.val
-        else:
-            self.valid=False
-        self.inorder(root.right)
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        self.inorder(root)
-        return self.valid
+        isCheck=True
+        val=float("-inf")
+        def validTree(root):
+            nonlocal isCheck,val
+            if root is None:
+                return
+            validTree(root.left)
+            if val<root.val:
+                val=root.val
+            else:
+                isCheck=False
+            validTree(root.right)
+        validTree(root)
+        if isCheck:
+            return True
+        return False
+        
