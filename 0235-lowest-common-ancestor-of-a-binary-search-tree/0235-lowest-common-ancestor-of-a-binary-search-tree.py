@@ -10,13 +10,13 @@ class Solution:
         def preorder(root,p,q):
             if root is None:
                 return 
-            print(root.val," ",p.val," ",q.val)
+            # print(root.val," ",p.val," ",q.val)
             if (root.val >p.val and root.val >q.val):
-                print("FDes")
+                # print("FDes")
                 return preorder(root.left,p,q)
             elif (root.val <p.val and root.val <q.val):
                 return preorder(root.right,p,q)
             else:
-                print("elss")
+                # print("elss")
                 return root
         return preorder(root,p,q)
