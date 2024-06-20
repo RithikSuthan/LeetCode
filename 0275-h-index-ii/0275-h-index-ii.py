@@ -1,15 +1,12 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        max_citations=0
         def helper(target):
-            nonlocal max_citations
             count=0
             for i in range(len(citations)):
                 if citations[i]>=target:
                     count+=1
             print("Target",target,count)
             if count>=target:
-                max_citations=max(max_citations,target)
                 return True
             return False
         if len(citations)==1 and citations[0]>0:
