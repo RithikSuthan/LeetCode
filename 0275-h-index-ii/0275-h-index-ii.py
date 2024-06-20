@@ -16,7 +16,7 @@ class Solution:
             return 1
         citations.sort()
         left=0
-        right=len(citations)
+        right=citations[-1]
         while(left<=right):
             mid=(left+right)//2
             print(left,mid,right)
