@@ -69,4 +69,8 @@ Happy coding!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
