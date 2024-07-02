@@ -1,11 +1,9 @@
 class TrieNode():
-    flag=False
-    childrens=[]
     def __init__(self):
-        self.flag=False
         self.childrens={}
+        self.flag=False
 class Trie:
-    root=None
+
     def __init__(self):
         self.root=TrieNode()
 
@@ -21,19 +19,17 @@ class Trie:
         for i in word:
             if i not in curr.childrens:
                 return False
-            else:
-                curr=curr.childrens[i]
-        if curr.flag==True:
-            return True
-        return False
-
+            curr=curr.childrens[i]
+        if curr.flag!=True:
+            return False
+        return True
+        
     def startsWith(self, prefix: str) -> bool:
         curr=self.root
         for i in prefix:
             if i not in curr.childrens:
                 return False
-            else:
-                curr=curr.childrens[i]
+            curr=curr.childrens[i]
         return True
 
 
