@@ -90,6 +90,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -107,4 +108,16 @@ Happy coding!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
