@@ -109,6 +109,7 @@ Happy coding!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/RithikSuthan/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +126,8 @@ Happy coding!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/RithikSuthan/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
