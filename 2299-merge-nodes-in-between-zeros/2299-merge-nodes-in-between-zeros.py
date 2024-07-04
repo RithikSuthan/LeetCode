@@ -17,7 +17,7 @@ class Solution:
             temp=temp.next
         if sum1!=0:
             ls.append(sum1)
-        print(ls)
+        # print(ls)
         temp=head
         cou=0
         while(temp and cou<len(ls)):
