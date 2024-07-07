@@ -60,6 +60,7 @@ Happy coding!
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RithikSuthan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -83,6 +84,7 @@ Happy coding!
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Happy coding!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
 | ------- |
