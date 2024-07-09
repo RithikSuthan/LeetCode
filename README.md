@@ -45,10 +45,12 @@ Happy coding!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -105,6 +107,7 @@ Happy coding!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/RithikSuthan/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +122,7 @@ Happy coding!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
