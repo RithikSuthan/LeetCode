@@ -184,6 +184,7 @@ Happy coding!
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/RithikSuthan/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1642-water-bottles](https://github.com/RithikSuthan/LeetCode/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RithikSuthan/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Backtracking
