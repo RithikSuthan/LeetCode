@@ -109,6 +109,7 @@ Happy coding!
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -122,6 +123,7 @@ Happy coding!
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
