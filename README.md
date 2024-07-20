@@ -121,6 +121,7 @@ Happy coding!
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -139,6 +140,7 @@ Happy coding!
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -155,6 +157,7 @@ Happy coding!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -248,4 +251,8 @@ Happy coding!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
