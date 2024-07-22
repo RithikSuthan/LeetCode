@@ -1,16 +1,14 @@
-import copy
-
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        s1_sorted = ''.join(sorted(s1))
-        
-        i = 0
-        j = len(s1) - 1
-        while j < len(s2):
-            s2_substring = s2[i:j+1]
-            s2_sorted = ''.join(sorted(s2_substring))
-            if s2_sorted == s1_sorted:
+        if len(s1)>len(s2):
+            return False
+        l1=len(s1)
+        s1=sorted(s1)
+        left=0
+        for r in range(len(s2)):
+            while((r-left+1)>l1):
+                left+=1
+            dummy=sorted(s2[left:r+1])
+            if dummy==s1:
                 return True
-            i += 1
-            j += 1
         return False
