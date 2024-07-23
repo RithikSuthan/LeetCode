@@ -36,10 +36,6 @@ public:
         }
         reverse(array.begin(),array.end());
         stable_sort(array.begin(),array.end(),compare);
-          for(int i=0;i<array.size();i++)
-        {
-           cout<<array[i].first<<":"<<array[i].second<<endl;
-        }
         for(auto &a:array)
         {
 
