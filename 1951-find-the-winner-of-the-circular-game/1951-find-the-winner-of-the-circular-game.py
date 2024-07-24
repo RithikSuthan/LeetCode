@@ -4,6 +4,5 @@ class Solution:
         index=0
         while(len(ls)>1):
             index=(index+k-1)%len(ls)
-            # print(index,ls)
             ls.pop(index)
         return ls[0]
