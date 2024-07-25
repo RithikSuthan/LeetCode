@@ -49,6 +49,7 @@ Happy coding!
 | ------- |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RithikSuthan/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -58,6 +59,7 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -128,6 +130,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -285,4 +288,24 @@ Happy coding!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
