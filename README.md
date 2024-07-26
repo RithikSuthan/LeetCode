@@ -308,4 +308,8 @@ Happy coding!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
