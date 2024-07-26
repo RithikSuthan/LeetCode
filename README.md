@@ -311,5 +311,6 @@ Happy coding!
 ## Database
 |  |
 | ------- |
+| [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
