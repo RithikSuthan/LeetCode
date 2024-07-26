@@ -312,5 +312,6 @@ Happy coding!
 |  |
 | ------- |
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
+| [1292-immediate-food-delivery-ii](https://github.com/RithikSuthan/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
