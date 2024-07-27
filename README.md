@@ -315,5 +315,6 @@ Happy coding!
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/RithikSuthan/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1670-patients-with-a-condition](https://github.com/RithikSuthan/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/RithikSuthan/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
