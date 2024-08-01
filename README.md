@@ -125,6 +125,7 @@ Happy coding!
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -154,6 +155,7 @@ Happy coding!
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
