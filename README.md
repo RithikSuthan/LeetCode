@@ -131,6 +131,7 @@ Happy coding!
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -156,6 +157,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
