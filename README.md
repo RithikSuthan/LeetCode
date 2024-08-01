@@ -331,5 +331,6 @@ Happy coding!
 | [1664-find-users-with-valid-e-mails](https://github.com/RithikSuthan/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/RithikSuthan/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/RithikSuthan/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [2057-count-salary-categories](https://github.com/RithikSuthan/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
