@@ -125,6 +125,7 @@ Happy coding!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
@@ -234,6 +235,7 @@ Happy coding!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -282,6 +284,7 @@ Happy coding!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -304,6 +307,7 @@ Happy coding!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [1331-path-with-maximum-gold](https://github.com/RithikSuthan/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
