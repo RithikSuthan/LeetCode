@@ -27,7 +27,7 @@ class Solution:
         for i in range(len(result)):
             while (result[i] and result[i][-1]==" "):
                 result[i]=result[i][0:len(result[i])-1]
-        print(result)
+        # print(result)
         result=" ".join(result)
         return result
 
