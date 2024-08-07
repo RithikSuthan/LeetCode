@@ -5,7 +5,7 @@ class Solution:
         sell=0
         sp=True
         for i in range(1,len(prices)-1):
-            print(buy,prices[i],"Profit :",profit)
+            # print(buy,prices[i],"Profit :",profit)
             if buy>prices[i]:
                 buy=prices[i]
                 sp=True
