@@ -127,6 +127,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,6 +274,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/RithikSuthan/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/RithikSuthan/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -318,6 +320,7 @@ Happy coding!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [1331-path-with-maximum-gold](https://github.com/RithikSuthan/LeetCode/tree/master/1331-path-with-maximum-gold) |
