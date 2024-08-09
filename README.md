@@ -132,6 +132,7 @@ Happy coding!
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -172,6 +173,7 @@ Happy coding!
 | [0091-decode-ways](https://github.com/RithikSuthan/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RithikSuthan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -194,6 +196,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/RithikSuthan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -245,6 +248,7 @@ Happy coding!
 | [0032-longest-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RithikSuthan/LeetCode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -270,6 +274,7 @@ Happy coding!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Simulation
 |  |
@@ -376,4 +381,8 @@ Happy coding!
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/RithikSuthan/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2057-count-salary-categories](https://github.com/RithikSuthan/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
