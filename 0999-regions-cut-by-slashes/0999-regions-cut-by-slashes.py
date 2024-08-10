@@ -18,17 +18,13 @@ class Solution:
         # print(newGrid)
         visited=set()
         directions=[(1,0),(-1,0),(0,1),(0,-1)]
-        def bfs(i,j):
-            queue=deque()
-            queue.append((i,j))
-            while(queue):
-                curr=queue.pop()
-                visited.add(curr)
-                for i in directions:
-                    u=curr[0]+i[0]
-                    v=curr[1]+i[1]
-                    if u in range(0,len(newGrid)) and v in range(0,len(newGrid[0])) and (u,v) not in visited and (u,v) not in queue and newGrid[u][v] !=1:
-                        queue.append((u,v))
+        def bfs(v1,v2):
+            visited.add((v1,v2))
+            for i in directions:
+                u=v1+i[0]
+                v=v2+i[1]
+                if u in range(0,len(newGrid)) and v in range(0,len(newGrid[0])) and (u,v) not in visited and newGrid[u][v] !=1:
+                    bfs(u,v)
         div=0
         for i in range(0,len(newGrid)):
             for j in range(0,len(newGrid[0])):
