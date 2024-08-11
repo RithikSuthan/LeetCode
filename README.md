@@ -259,6 +259,7 @@ Happy coding!
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RithikSuthan/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/RithikSuthan/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -300,6 +301,7 @@ Happy coding!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/RithikSuthan/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/RithikSuthan/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
