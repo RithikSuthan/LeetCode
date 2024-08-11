@@ -139,6 +139,7 @@ Happy coding!
 | [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/RithikSuthan/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -219,6 +220,7 @@ Happy coding!
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/RithikSuthan/LeetCode/tree/master/0086-partition-list) |
+| [0283-move-zeroes](https://github.com/RithikSuthan/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/RithikSuthan/LeetCode/tree/master/0567-permutation-in-string) |
