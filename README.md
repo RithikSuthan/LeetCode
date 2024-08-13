@@ -300,6 +300,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RithikSuthan/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/RithikSuthan/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/RithikSuthan/LeetCode/tree/master/0273-integer-to-english-words) |
