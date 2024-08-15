@@ -6,11 +6,13 @@
 #         self.right = right
 class Solution(object):
     def allPossibleFBT(self, n):
-        memo=[]
+        memo={}
         if n%2==0:
             return []
         if n==1:
             return [TreeNode()]
+        if n in memo:
+            return memo[n]
         res=[]
         for i in range(1,n,2):
             left=self.allPossibleFBT(i)
@@ -18,4 +20,5 @@ class Solution(object):
             for l in left:
                 for r in right:
                     res.append(TreeNode(0,l,r))
-        return res
+        memo[n]=res
+        return memo[n]
