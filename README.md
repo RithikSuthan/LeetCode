@@ -109,6 +109,7 @@ Happy coding!
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -123,6 +124,7 @@ Happy coding!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
+| [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -190,6 +192,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -333,6 +336,7 @@ Happy coding!
 | [0273-integer-to-english-words](https://github.com/RithikSuthan/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
+| [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -406,6 +410,7 @@ Happy coding!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
+| [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Union Find
 |  |
 | ------- |
