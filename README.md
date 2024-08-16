@@ -36,6 +36,7 @@ Happy coding!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0624-maximum-distance-in-arrays](https://github.com/RithikSuthan/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/RithikSuthan/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -147,6 +148,7 @@ Happy coding!
 | [0300-longest-increasing-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/RithikSuthan/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/RithikSuthan/LeetCode/tree/master/0890-lemonade-change) |
