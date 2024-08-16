@@ -33,6 +33,7 @@ Happy coding!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RithikSuthan/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
@@ -138,6 +139,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RithikSuthan/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -188,6 +190,7 @@ Happy coding!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RithikSuthan/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
