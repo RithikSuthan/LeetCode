@@ -164,6 +164,7 @@ Happy coding!
 | [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
+| [1063-best-sightseeing-pair](https://github.com/RithikSuthan/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -207,6 +208,7 @@ Happy coding!
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1063-best-sightseeing-pair](https://github.com/RithikSuthan/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
