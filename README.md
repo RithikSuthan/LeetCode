@@ -207,6 +207,7 @@ Happy coding!
 | [0392-is-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/RithikSuthan/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
@@ -340,6 +341,7 @@ Happy coding!
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/RithikSuthan/LeetCode/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RithikSuthan/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0650-2-keys-keyboard](https://github.com/RithikSuthan/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/RithikSuthan/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1642-water-bottles](https://github.com/RithikSuthan/LeetCode/tree/master/1642-water-bottles) |
