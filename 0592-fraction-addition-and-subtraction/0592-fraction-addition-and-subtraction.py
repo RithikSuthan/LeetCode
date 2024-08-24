@@ -29,7 +29,7 @@ class Solution:
             queue.append(expression[i])
             # print(queue)
         ls.append("".join(queue))
-        print(ls)
+        # print(ls)
 
         # lcm=0
         temp=[]
@@ -39,7 +39,7 @@ class Solution:
             else:
                 temp.append(int(ls[i][-2]+ls[i][-1]))
 
-        print(temp)
+        # print(temp)
 
         while(len(temp)>1):
             a=temp.pop(0)
@@ -53,15 +53,15 @@ class Solution:
                 val=temp[0]//int(ls[i][-1])
             else:
                 val=temp[0]//int(ls[i][-2]+ls[i][-1])
-            print("val ",val)
+            # print("val ",val)
             # ls[i]=int(ls[i][0]+str(val))
             if ls[i][2]=="/":
                 ls[i]=int(ls[i][0]+str(  int(ls[i][1])*val  ))
             else:
                 ls[i]=int(ls[i][0]+str(  int(ls[i][1]+ls[i][2])*val  ))
-        print(ls)
+        # print(ls)
         result=sum(ls)
-        print("result ",result)
+        # print("result ",result)
         if result==0:
             return "0/1"
         temp1=gcd(abs(result),abs(temp[0]))
