@@ -87,6 +87,7 @@ Happy coding!
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -118,6 +119,7 @@ Happy coding!
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -281,6 +283,7 @@ Happy coding!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RithikSuthan/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
