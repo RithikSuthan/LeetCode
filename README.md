@@ -445,6 +445,7 @@ Happy coding!
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/RithikSuthan/LeetCode/tree/master/0175-combine-two-tables) |
 | [1155-product-sales-analysis-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/RithikSuthan/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
