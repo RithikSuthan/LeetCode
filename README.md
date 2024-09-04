@@ -374,6 +374,7 @@ Happy coding!
 | [0650-2-keys-keyboard](https://github.com/RithikSuthan/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/RithikSuthan/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/RithikSuthan/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/RithikSuthan/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
