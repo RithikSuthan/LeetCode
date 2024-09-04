@@ -61,6 +61,7 @@ Happy coding!
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RithikSuthan/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RithikSuthan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RithikSuthan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RithikSuthan/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -192,6 +193,7 @@ Happy coding!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RithikSuthan/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RithikSuthan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RithikSuthan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
