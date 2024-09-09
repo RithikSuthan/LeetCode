@@ -489,6 +489,7 @@ Happy coding!
 | [2041-the-latest-login-in-2020](https://github.com/RithikSuthan/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/RithikSuthan/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/RithikSuthan/LeetCode/tree/master/2087-confirmation-rate) |
+| [2110-employees-with-missing-information](https://github.com/RithikSuthan/LeetCode/tree/master/2110-employees-with-missing-information) |
 ## Memoization
 |  |
 | ------- |
