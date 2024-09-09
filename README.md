@@ -472,6 +472,7 @@ Happy coding!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RithikSuthan/LeetCode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/RithikSuthan/LeetCode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/RithikSuthan/LeetCode/tree/master/0184-department-highest-salary) |
 | [1155-product-sales-analysis-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
