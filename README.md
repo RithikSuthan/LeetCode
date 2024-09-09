@@ -478,6 +478,7 @@ Happy coding!
 | [0183-customers-who-never-order](https://github.com/RithikSuthan/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/RithikSuthan/LeetCode/tree/master/0184-department-highest-salary) |
 | [1155-product-sales-analysis-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/RithikSuthan/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/RithikSuthan/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/RithikSuthan/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
