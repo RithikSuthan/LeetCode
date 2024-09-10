@@ -485,6 +485,7 @@ Happy coding!
 | [0184-department-highest-salary](https://github.com/RithikSuthan/LeetCode/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/RithikSuthan/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1155-product-sales-analysis-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1174-sales-analysis-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/RithikSuthan/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/RithikSuthan/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/RithikSuthan/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
