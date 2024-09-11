@@ -439,6 +439,7 @@ Happy coding!
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RithikSuthan/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
 | ------- |
