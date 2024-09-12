@@ -7,6 +7,7 @@ class Solution:
             for ele1 in val:
                 if ele1 not in allowed:
                     flag=False
+                    break
             if flag:
                 ans+=1
         return ans
