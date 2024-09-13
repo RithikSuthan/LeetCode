@@ -196,6 +196,7 @@ Happy coding!
 | [1293-three-consecutive-odds](https://github.com/RithikSuthan/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/RithikSuthan/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RithikSuthan/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RithikSuthan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -447,6 +448,7 @@ Happy coding!
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RithikSuthan/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RithikSuthan/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
@@ -461,6 +463,7 @@ Happy coding!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
