@@ -271,6 +271,7 @@ Happy coding!
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RithikSuthan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/RithikSuthan/LeetCode/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RithikSuthan/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -350,6 +351,7 @@ Happy coding!
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
 | [1283-reformat-date](https://github.com/RithikSuthan/LeetCode/tree/master/1283-reformat-date) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1619-path-crossing](https://github.com/RithikSuthan/LeetCode/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/RithikSuthan/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -450,6 +452,7 @@ Happy coding!
 | ------- |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RithikSuthan/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RithikSuthan/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -466,6 +469,7 @@ Happy coding!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
