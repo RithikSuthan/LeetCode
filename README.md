@@ -296,6 +296,7 @@ Happy coding!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -352,6 +353,7 @@ Happy coding!
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/RithikSuthan/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RithikSuthan/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0953-reverse-only-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
 | [1283-reformat-date](https://github.com/RithikSuthan/LeetCode/tree/master/1283-reformat-date) |
