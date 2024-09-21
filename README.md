@@ -88,6 +88,7 @@ Happy coding!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -378,6 +379,7 @@ Happy coding!
 | ------- |
 | [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Simulation
 |  |
 | ------- |
