@@ -5,14 +5,14 @@ class CustomStack:
         self.maxSize=maxSize  
 
     def push(self, x: int) -> None:
-        print("push",self.st)
+        # print("push",self.st)
         if self.st and  len(self.st)>= self.maxSize:
             pass
         else:
             self.st.append(x)
 
     def pop(self) -> int:
-        print("pop",self.st)
+        # print("pop",self.st)
         if self.st:
             return self.st.pop()
         return -1
@@ -20,7 +20,7 @@ class CustomStack:
     def increment(self, k: int, val: int) -> None:
         if self.st:
             ind=0
-            print("inc",self.st)
+            # print("inc",self.st)
             while ind<len(self.st) and ind<k:
                 self.st[ind]=self.st[ind]+val
                 ind+=1
