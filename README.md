@@ -167,6 +167,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RithikSuthan/LeetCode/tree/master/0055-jump-game) |
@@ -267,6 +268,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0264-ugly-number-ii) |
