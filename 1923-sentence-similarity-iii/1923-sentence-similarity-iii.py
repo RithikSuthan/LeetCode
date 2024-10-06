@@ -12,13 +12,13 @@ class Solution:
                 while (start<len(ls) and start1<len(ls1) and ls[start]==ls1[start1]):
                     start+=1
                     start1+=1
-                print(ls," Before  ",ls1)
+                # print(ls," Before  ",ls1)
                 # while(not flag and start<len(ls) and ls[start] not in ls1):
                 while(not flag and start<len(ls) and ls1.count(ls[start]) < ls.count(ls[start])):
                     ls1.insert(start,ls[start])
                     start+=1
                 flag=True
-                print(ls," ",ls1)
+                # print(ls," ",ls1)
             if ls1==ls:
                 return True
         elif len(ls)<len(ls1):
@@ -29,12 +29,12 @@ class Solution:
                 while (start<len(ls) and start1<len(ls1) and ls[start]==ls1[start1]):
                     start+=1
                     start1+=1
-                print(ls," Before  ",ls1)
+                # print(ls," Before  ",ls1)
                 while(not flag and start1<len(ls1) and ls.count(ls1[start1]) < ls1.count(ls1[start1])):
                     ls.insert(start1,ls1[start1])
                     start1+=1
                 flag=True
-                print(ls," ",ls1)
+                # print(ls," ",ls1)
             if ls1==ls:
                 return True
         return False
