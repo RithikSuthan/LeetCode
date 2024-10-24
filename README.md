@@ -92,6 +92,7 @@ Happy coding!
 | [0113-path-sum-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
@@ -114,6 +115,7 @@ Happy coding!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -133,6 +135,7 @@ Happy coding!
 | [0113-path-sum-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -157,6 +160,7 @@ Happy coding!
 | [0113-path-sum-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
