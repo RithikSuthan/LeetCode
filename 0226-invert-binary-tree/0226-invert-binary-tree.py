@@ -7,8 +7,8 @@
 class Solution:
     import copy
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if root is None:
-            return 
+        if not root:
+            return
         temp=copy.deepcopy(root.left)
         root.left=self.invertTree(root.right)
         root.right=self.invertTree(temp)
