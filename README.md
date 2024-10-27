@@ -340,6 +340,7 @@ Happy coding!
 | ------- |
 | [0086-partition-list](https://github.com/RithikSuthan/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/RithikSuthan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/RithikSuthan/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -472,6 +473,7 @@ Happy coding!
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/RithikSuthan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/RithikSuthan/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
