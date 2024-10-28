@@ -406,6 +406,7 @@ Happy coding!
 | [3195-separate-black-and-white-balls](https://github.com/RithikSuthan/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RithikSuthan/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/RithikSuthan/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Design
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Happy coding!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/RithikSuthan/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RithikSuthan/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
