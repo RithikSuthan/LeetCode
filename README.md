@@ -201,6 +201,7 @@ Happy coding!
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/RithikSuthan/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/RithikSuthan/LeetCode/tree/master/1063-best-sightseeing-pair) |
