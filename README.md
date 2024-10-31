@@ -243,6 +243,7 @@ Happy coding!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RithikSuthan/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/RithikSuthan/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Dynamic Programming
 |  |
 | ------- |
