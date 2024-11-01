@@ -7,5 +7,4 @@ class Solution:
                 pass
             else:
                 str1+=ele
-        print(str1)
         return str1
