@@ -193,6 +193,7 @@ Happy coding!
 | [0300-longest-increasing-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0523-continuous-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/RithikSuthan/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RithikSuthan/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -290,6 +291,7 @@ Happy coding!
 | [0264-ugly-number-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/RithikSuthan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/RithikSuthan/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RithikSuthan/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -456,6 +458,7 @@ Happy coding!
 | [0326-power-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/RithikSuthan/LeetCode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/RithikSuthan/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RithikSuthan/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RithikSuthan/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -530,6 +533,7 @@ Happy coding!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
