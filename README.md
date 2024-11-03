@@ -389,6 +389,7 @@ Happy coding!
 | [0592-fraction-addition-and-subtraction](https://github.com/RithikSuthan/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/RithikSuthan/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0812-rotate-string](https://github.com/RithikSuthan/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RithikSuthan/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/RithikSuthan/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RithikSuthan/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -605,4 +606,8 @@ Happy coding!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/RithikSuthan/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
