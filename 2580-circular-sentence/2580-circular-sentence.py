@@ -1,17 +1,9 @@
 class Solution:
     def isCircularSentence(self, sentence: str) -> bool:
-        # Use the split function to store the words in a list.
-        words = sentence.split(" ")
-        n = len(words)
-
-        # Start comparing from the last character of the last word.
-        last = words[n - 1][-1]
-
-        for i in range(n):
-            # If this character is not equal to the first character of current word, return
-            # false.
-            if words[i][0] != last:
+        ls=sentence.split(" ")
+        for i in range(0,len(ls)-1):
+            if ls[i][-1]!=ls[i+1][0]:
                 return False
-            last = words[i][-1]
-
+        if ls[-1][-1]!=ls[0][0]:
+            return False
         return True
