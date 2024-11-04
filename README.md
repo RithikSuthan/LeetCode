@@ -416,6 +416,7 @@ Happy coding!
 | [3195-separate-black-and-white-balls](https://github.com/RithikSuthan/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RithikSuthan/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3451-string-compression-iii](https://github.com/RithikSuthan/LeetCode/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/RithikSuthan/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Design
 |  |
