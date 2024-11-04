@@ -11,7 +11,7 @@ class Solution:
             curr+=word[i]
             i+=1
         ls.append(curr)
-        # print(ls)
+        print(ls)
 
         ans=""
         for ele in ls:
