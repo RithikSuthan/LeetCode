@@ -75,6 +75,7 @@ Happy coding!
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Happy coding!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/RithikSuthan/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -523,6 +525,7 @@ Happy coding!
 | [1786-count-the-number-of-consistent-strings](https://github.com/RithikSuthan/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RithikSuthan/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
