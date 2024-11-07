@@ -1,8 +1,8 @@
 class Solution:
     def minChanges(self, s: str) -> int:
         l=len(s)
-        if s.count("0")==l or s.count("1")==l:
-            return 0
+        # if s.count("0")==l or s.count("1")==l:
+        #     return 0
         
         # if len(s[0:l//2])%2!=0:
         #     return min(s.count("0"),s.count("1"))
