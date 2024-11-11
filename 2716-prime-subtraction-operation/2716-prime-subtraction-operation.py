@@ -42,12 +42,8 @@ class Solution:
             ind=func(nums[i])
             while i>0 and nums[i-1]>=(nums[i]-prime[ind]) and ind>=0:
                 ind-=1
-            # print(ind)
-            # if prime[ind]==nums[i] and i!=0:
-            #     return False
             if ind >= 0 and prime[ind] < nums[i]:
                 nums[i] -= prime[ind]
-            # print(i," ",nums)
             if is_increasing(nums):
                 return True
         return False
