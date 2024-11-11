@@ -46,6 +46,7 @@ Happy coding!
 | [1818-maximum-score-from-removing-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/RithikSuthan/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -242,6 +243,7 @@ Happy coding!
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/RithikSuthan/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -346,6 +348,7 @@ Happy coding!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -477,6 +480,7 @@ Happy coding!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/RithikSuthan/LeetCode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/RithikSuthan/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -618,6 +622,7 @@ Happy coding!
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
