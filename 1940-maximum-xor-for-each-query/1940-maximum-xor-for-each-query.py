@@ -1,16 +1,14 @@
 class Solution:
     def getMaximumXor(self, nums: List[int], maximumBit: int) -> List[int]:
-        prefix_xor = [0] * len(nums)
-        prefix_xor[0] = nums[0]
-        for i in range(1, len(nums)):
-            prefix_xor[i] = prefix_xor[i - 1] ^ nums[i]
-        ans = [0] * len(nums)
+        max_val=2**maximumBit-1
+        print(max_val)
 
-        mask = (1 << maximumBit) - 1
-
-        for i in range(len(nums)):
-            # find k to maximize value
-            current_xor = prefix_xor[len(prefix_xor) - 1 - i]
-            ans[i] = current_xor ^ mask
-
+        total_xor=[nums[0]]
+        for i in range(1,len(nums)):
+            total_xor.append(total_xor[-1]^nums[i])
+        total_xor=total_xor[::-1]
+        print(total_xor)
+        ans=[]
+        for i in range(0,len(nums)):
+            ans.append(max_val^total_xor[i])
         return ans
