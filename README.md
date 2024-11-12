@@ -71,6 +71,7 @@ Happy coding!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RithikSuthan/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RithikSuthan/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
@@ -236,6 +237,7 @@ Happy coding!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/RithikSuthan/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RithikSuthan/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RithikSuthan/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -348,6 +350,7 @@ Happy coding!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
