@@ -1,26 +1,19 @@
+from collections import defaultdict
 class Solution:
-    def maximumBeauty(
-        self, items: List[List[int]], queries: List[int]
-    ) -> List[int]:
-        # Sort and store max beauty
-        items.sort(key=lambda x: x[0])
-
-        max_beauty = items[0][1]
-        for i in range(len(items)):
-            max_beauty = max(max_beauty, items[i][1])
-            items[i][1] = max_beauty
-
-        return [self.binary_search(items, q) for q in queries]
-
-    def binary_search(self, items, target_price):
-        left, right = 0, len(items) - 1
-        max_beauty = 0
-        while left <= right:
-            mid = (left + right) // 2
-            if items[mid][0] > target_price:
-                right = mid - 1
+    import bisect
+    def maximumBeauty(self, items, queries):
+        mydict=defaultdict(int)
+        items.sort()
+        max_beauty=0
+        for price,beauty in items:
+            max_beauty=max(max_beauty,beauty)
+            mydict[price]=max_beauty
+        ls=list(mydict.keys())
+        ans=[]
+        for item in queries:
+            ind=bisect.bisect_right(ls,item)-1
+            if ind>=0:
+                ans.append(mydict[ls[ind]])
             else:
-                # Found viable price. Keep moving to right
-                max_beauty = max(max_beauty, items[mid][1])
-                left = mid + 1
-        return max_beauty
+                ans.append(0)
+        return ans
