@@ -76,6 +76,7 @@ Happy coding!
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -246,6 +247,7 @@ Happy coding!
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/RithikSuthan/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -342,6 +344,7 @@ Happy coding!
 | [1923-sentence-similarity-iii](https://github.com/RithikSuthan/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/RithikSuthan/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -353,6 +356,7 @@ Happy coding!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
