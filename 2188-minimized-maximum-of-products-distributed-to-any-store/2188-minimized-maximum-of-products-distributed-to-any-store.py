@@ -5,7 +5,6 @@ class Solution:
             temp=0
             for ele in quantities:
                 temp+=ceil(ele/val)
-            print(val,temp)
             return temp<=n
         l=1
         h=max(quantities)
