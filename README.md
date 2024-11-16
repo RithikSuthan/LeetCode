@@ -254,6 +254,7 @@ Happy coding!
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RithikSuthan/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RithikSuthan/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/RithikSuthan/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -293,6 +294,7 @@ Happy coding!
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RithikSuthan/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RithikSuthan/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RithikSuthan/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
