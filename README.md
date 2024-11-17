@@ -473,6 +473,7 @@ Happy coding!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RithikSuthan/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/RithikSuthan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/RithikSuthan/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/RithikSuthan/LeetCode/tree/master/0263-ugly-number) |
@@ -539,6 +540,7 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RithikSuthan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/RithikSuthan/LeetCode/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
