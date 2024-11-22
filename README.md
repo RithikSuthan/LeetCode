@@ -213,6 +213,7 @@ Happy coding!
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/RithikSuthan/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RithikSuthan/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/RithikSuthan/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -321,6 +322,7 @@ Happy coding!
 | [0940-fruit-into-baskets](https://github.com/RithikSuthan/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/RithikSuthan/LeetCode/tree/master/1044-find-common-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RithikSuthan/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -548,6 +550,7 @@ Happy coding!
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RithikSuthan/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1331-path-with-maximum-gold](https://github.com/RithikSuthan/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
