@@ -44,6 +44,7 @@ Happy coding!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RithikSuthan/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RithikSuthan/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RithikSuthan/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -242,6 +243,7 @@ Happy coding!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RithikSuthan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/RithikSuthan/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-maximum-matrix-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/RithikSuthan/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RithikSuthan/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -557,6 +559,7 @@ Happy coding!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/RithikSuthan/LeetCode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/RithikSuthan/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/RithikSuthan/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
