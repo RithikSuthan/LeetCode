@@ -55,6 +55,7 @@ Happy coding!
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RithikSuthan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3189-find-champion-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3189-find-champion-ii) |
 ## Sorting
 |  |
 | ------- |
