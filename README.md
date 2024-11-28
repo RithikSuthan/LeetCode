@@ -99,6 +99,7 @@ Happy coding!
 | [0113-path-sum-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -122,6 +123,7 @@ Happy coding!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -194,6 +196,7 @@ Happy coding!
 | [0139-word-break](https://github.com/RithikSuthan/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/RithikSuthan/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/RithikSuthan/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/RithikSuthan/LeetCode/tree/master/0283-move-zeroes) |
@@ -554,6 +557,7 @@ Happy coding!
 | [0059-spiral-matrix-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RithikSuthan/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1331-path-with-maximum-gold](https://github.com/RithikSuthan/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -653,6 +657,7 @@ Happy coding!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Game Theory
 |  |
