@@ -1,26 +1,31 @@
 class Solution:
     from collections import deque
     def numIslands(self, grid: List[List[str]]) -> int:
-        no_of_islands=0
-        directions=[[1,0],[-1,0],[0,1],[0,-1]]
-        visited=set()
-        rows=len(grid)
-        cols=len(grid[0])
+        
+        def dfs(u,v):
+            queue = deque()
+            queue.append((u,v))
 
-        def dfs(i,j):
-            print((i,j))
-            if (i,j) in visited:
-                return
-            visited.add((i,j))
-            for x,y in directions:
-                u=i+x
-                v=j+y
-                if u in range(0,rows) and v in range(0,cols) and grid[u][v]=="1" and (u,v) not in visited:
-                    dfs(u,v)
+            while queue:
+                curr = queue.popleft()
+                visited.add(curr)
+                for u,v in directions:
+                    x = curr[0]+u
+                    y = curr[1]+v
+                    if x in range(0,rows) and y in range(0,cols) and grid[x][y]=="1" and (x,y) not in queue and (x,y) not in visited:
+                        queue.append((x,y))
+
+
+        
+        rows = len(grid)
+        cols = len(grid[0])
+        noOfIslands = 0
+        visited = set()
+        directions = [[1,0],[-1,0],[0,-1],[0,1]]
 
         for i in range(rows):
             for j in range(cols):
-                if grid[i][j]=="1" and (i,j) not in visited:
+                if (i,j) not in visited and grid[i][j] == "1":
                     dfs(i,j)
-                    no_of_islands+=1
-        return no_of_islands
+                    noOfIslands += 1
+        return noOfIslands
