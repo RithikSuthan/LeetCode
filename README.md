@@ -54,6 +54,7 @@ Happy coding!
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RithikSuthan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RithikSuthan/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RithikSuthan/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -121,6 +122,7 @@ Happy coding!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RithikSuthan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -699,4 +701,8 @@ Happy coding!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RithikSuthan/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
