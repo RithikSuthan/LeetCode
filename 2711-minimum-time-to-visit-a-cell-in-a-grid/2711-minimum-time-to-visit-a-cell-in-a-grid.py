@@ -1,37 +1,32 @@
 class Solution:
+    from heapq import heappush,heappop
     def minimumTime(self, grid: List[List[int]]) -> int:
-        if grid[1][0] > 1 and grid[0][1] > 1:
+        rows=len(grid)
+        cols=len(grid[0])
+        directions = [[1,0],[-1,0],[0,-1],[0,1]]
+        pq=[(0,0,0)]
+        visited=[[False]*cols for i in range(rows)]
+        if grid[0][1] > 1 and grid[1][0] > 1:
             return -1
-        R, C = len(grid), len(grid[0])
+        while pq:
+            curr,i,j=heappop(pq)
+            
+            if visited[i][j]:
+                continue
+            visited[i][j]=True
+            if i==rows-1 and j==cols-1:
+                return curr
+            for u,v in directions:
+                x=u+i
+                y=v+j
+                if x in range(0,rows) and y in range(0,cols) and not visited[x][y]:
+                    if grid[x][y]<=curr+1:
+                        heappush(pq,(curr+1,x,y))
+                    else:
+                        wait_time=grid[x][y]-curr
+                        if(wait_time%2==1):
+                            heappush(pq,(grid[x][y],x,y))
+                        else:
+                            heappush(pq,(grid[x][y]+1,x,y))
 
-        def isOutside(i, j):
-            return i < 0 or i >= R or j < 0 or j >= C
-
-        def idx(i, j):
-            return i * C + j
-
-        N = R * C
-        time = [2**31] * N
-        pq = [0]
-
-        time[0] = 0
-        while len(pq):
-            tij = heappop(pq)
-            t, ij = tij >> 32, tij & ((1 << 30) - 1)
-            i, j = divmod(ij, C)
-            if i == R - 1 and j == C - 1:
-                return t
-
-            for di, dj in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
-                r, s = i + di, j + dj
-                if isOutside(r, s):
-                    continue
-
-                w = 0 if (grid[r][s] - t) & 1 else 1
-                nextTime = max(t + 1, grid[r][s] + w)
-
-                rs = idx(r, s)
-                if nextTime < time[rs]:
-                    time[rs] = nextTime
-                    heappush(pq, (nextTime << 32) + rs)
         return -1
