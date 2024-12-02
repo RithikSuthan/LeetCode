@@ -5,28 +5,29 @@ class Solution:
         cols=len(grid[0])
         directions = [[1,0],[-1,0],[0,-1],[0,1]]
         pq=[(0,0,0)]
-        visited=[[False]*cols for i in range(rows)]
+        visited=set()
         if grid[0][1] > 1 and grid[1][0] > 1:
             return -1
         while pq:
             curr,i,j=heappop(pq)
             
-            if visited[i][j]:
+            if (i,j) in visited:
                 continue
-            visited[i][j]=True
+            visited.add((i,j))
             if i==rows-1 and j==cols-1:
                 return curr
             for u,v in directions:
                 x=u+i
                 y=v+j
-                if x in range(0,rows) and y in range(0,cols) and not visited[x][y]:
-                    if grid[x][y]<=curr+1:
+                if x in range(0,rows) and y in range(0,cols) and (x,y) not in visited:
+                    if curr+1>=grid[x][y]:
                         heappush(pq,(curr+1,x,y))
                     else:
                         wait_time=grid[x][y]-curr
-                        if(wait_time%2==1):
-                            heappush(pq,(grid[x][y],x,y))
+                        if wait_time%2==1:
+                            next_time=curr+wait_time
                         else:
-                            heappush(pq,(grid[x][y]+1,x,y))
+                            next_time=curr+wait_time+1
+                        heappush(pq,(next_time,x,y))
 
         return -1
