@@ -278,6 +278,7 @@ Happy coding!
 | [2411-spiral-matrix-iv](https://github.com/RithikSuthan/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RithikSuthan/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/RithikSuthan/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RithikSuthan/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RithikSuthan/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RithikSuthan/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -608,6 +609,7 @@ Happy coding!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RithikSuthan/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/RithikSuthan/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/RithikSuthan/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -642,6 +644,7 @@ Happy coding!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/RithikSuthan/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Divide and Conquer
 |  |
 | ------- |
