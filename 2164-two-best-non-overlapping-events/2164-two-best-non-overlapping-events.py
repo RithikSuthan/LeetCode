@@ -3,7 +3,7 @@ class Solution:
         ls = []
         for ele in events:
             ls.append([ele[0],1,ele[2]])
-            ls.append([ele[1] + 1,-1,ele[2]])
+            ls.append([ele[1]+1,-1,ele[2]])
         ls.sort()
         # print(ls)
         maxSeen = 0
