@@ -224,6 +224,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/RithikSuthan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/RithikSuthan/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
 | [0875-longest-mountain-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/RithikSuthan/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RithikSuthan/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -408,6 +409,7 @@ Happy coding!
 | [0300-longest-increasing-subsequence](https://github.com/RithikSuthan/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RithikSuthan/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RithikSuthan/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RithikSuthan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RithikSuthan/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -507,6 +509,7 @@ Happy coding!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RithikSuthan/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
@@ -741,4 +744,12 @@ Happy coding!
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
