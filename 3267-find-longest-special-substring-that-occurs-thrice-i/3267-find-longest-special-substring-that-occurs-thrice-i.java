@@ -1,29 +1,58 @@
-public class Solution {
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
+class Solution {
     public int maximumLength(String s) {
-        int n = s.length();
-        int l = 1, r = n;
+        HashMap<String, Integer> hm = new HashMap<>();
+        int size = 0;
 
-        if (!helper(s, n, l)) return -1;
+        // Iterate over substring lengths
+        while (size < s.length()) {
+            for (int j = 0; j < s.length() - size; j++) {
+                String target = s.substring(j, size + j + 1);
 
-        while (l + 1 < r) {
-            int mid = (l + r) / 2;
-            if (helper(s, n, mid)) l = mid;
-            else r = mid;
+                // Check if the substring is "special" (made of one unique character)
+                if (isSpecial(target)) {
+                    if (!hm.containsKey(target)) {
+                        int count = 0;
+                        int index = s.indexOf(target);
+
+                        while (index != -1) {
+                            count++;
+                            index = s.indexOf(target, index + 1);
+                        }
+                        hm.put(target, count);
+                    }
+                }
+            }
+            size++;
         }
 
-        return l;
+        // Find the maximum length among substrings that occur exactly 3 times
+        int maxLen = 0;
+        Iterator<Map.Entry<String, Integer>> itr = hm.entrySet().iterator();
+        while (itr.hasNext()) {
+            Map.Entry<String, Integer> entry = itr.next();
+            if (entry.getValue() >= 3 && maxLen < entry.getKey().length()) {
+                maxLen = entry.getKey().length();
+            }
+        }
+
+        if (maxLen == 0) {
+            maxLen = -1;
+        }
+        return maxLen;
     }
 
-    private boolean helper(String s, int n, int x) {
-        int[] cnt = new int[26];
-        int p = 0;
-
-        for (int i = 0; i < n; i++) {
-            while (s.charAt(p) != s.charAt(i)) p++;
-            if (i - p + 1 >= x) cnt[s.charAt(i) - 'a']++;
-            if (cnt[s.charAt(i) - 'a'] > 2) return true;
+    // Helper method to check if a substring is made up of a single repeated character
+    private boolean isSpecial(String s) {
+        char firstChar = s.charAt(0);
+        for (char c : s.toCharArray()) {
+            if (c != firstChar) {
+                return false;
+            }
         }
-
-        return false;
+        return true;
     }
 }
