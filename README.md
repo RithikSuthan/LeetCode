@@ -455,6 +455,7 @@ Happy coding!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -471,6 +472,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RithikSuthan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/RithikSuthan/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RithikSuthan/LeetCode/tree/master/0091-decode-ways) |
