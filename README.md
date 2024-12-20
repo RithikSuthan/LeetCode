@@ -141,6 +141,7 @@ Happy coding!
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Happy coding!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RithikSuthan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RithikSuthan/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Topological Sort
@@ -187,6 +189,7 @@ Happy coding!
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -209,6 +212,7 @@ Happy coding!
 | [1207-delete-nodes-and-return-forest](https://github.com/RithikSuthan/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
