@@ -142,6 +142,7 @@ Happy coding!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RithikSuthan/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Happy coding!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RithikSuthan/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RithikSuthan/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
