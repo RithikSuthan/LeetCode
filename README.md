@@ -130,6 +130,7 @@ Happy coding!
 | [0386-lexicographical-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RithikSuthan/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -154,6 +155,7 @@ Happy coding!
 | [0112-path-sum](https://github.com/RithikSuthan/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/RithikSuthan/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RithikSuthan/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/RithikSuthan/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -183,6 +185,7 @@ Happy coding!
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RithikSuthan/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/RithikSuthan/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -213,6 +216,7 @@ Happy coding!
 | [0257-binary-tree-paths](https://github.com/RithikSuthan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/RithikSuthan/LeetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RithikSuthan/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/RithikSuthan/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/RithikSuthan/LeetCode/tree/master/1005-univalued-binary-tree) |
