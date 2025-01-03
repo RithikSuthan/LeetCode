@@ -314,6 +314,7 @@ Happy coding!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RithikSuthan/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RithikSuthan/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/RithikSuthan/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RithikSuthan/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/RithikSuthan/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/RithikSuthan/LeetCode/tree/master/2502-sort-the-people) |
@@ -729,6 +730,7 @@ Happy coding!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RithikSuthan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RithikSuthan/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/RithikSuthan/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/RithikSuthan/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RithikSuthan/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3427-special-array-ii) |
