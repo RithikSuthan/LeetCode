@@ -340,6 +340,7 @@ Happy coding!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RithikSuthan/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/RithikSuthan/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RithikSuthan/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RithikSuthan/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
