@@ -280,6 +280,7 @@ Happy coding!
 | [1333-sort-the-jumbled-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RithikSuthan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RithikSuthan/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithikSuthan/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RithikSuthan/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -598,6 +599,7 @@ Happy coding!
 | [0208-implement-trie-prefix-tree](https://github.com/RithikSuthan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/RithikSuthan/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RithikSuthan/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RithikSuthan/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
@@ -647,6 +649,7 @@ Happy coding!
 | [0650-2-keys-keyboard](https://github.com/RithikSuthan/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/RithikSuthan/LeetCode/tree/master/0909-stone-game) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/RithikSuthan/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/RithikSuthan/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/RithikSuthan/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RithikSuthan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -744,6 +747,7 @@ Happy coding!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RithikSuthan/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RithikSuthan/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RithikSuthan/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RithikSuthan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RithikSuthan/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/RithikSuthan/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -869,4 +873,8 @@ Happy coding!
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RithikSuthan/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RithikSuthan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
