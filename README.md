@@ -341,6 +341,7 @@ Happy coding!
 | [2868-continuous-subarrays](https://github.com/RithikSuthan/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RithikSuthan/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/RithikSuthan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RithikSuthan/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/RithikSuthan/LeetCode/tree/master/3429-special-array-i) |
@@ -439,6 +440,7 @@ Happy coding!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RithikSuthan/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RithikSuthan/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RithikSuthan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/RithikSuthan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RithikSuthan/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RithikSuthan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RithikSuthan/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -664,6 +666,7 @@ Happy coding!
 | [2645-pass-the-pillow](https://github.com/RithikSuthan/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/RithikSuthan/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithikSuthan/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/RithikSuthan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RithikSuthan/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RithikSuthan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/RithikSuthan/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -717,6 +720,7 @@ Happy coding!
 | [2411-spiral-matrix-iv](https://github.com/RithikSuthan/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/RithikSuthan/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RithikSuthan/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/RithikSuthan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
